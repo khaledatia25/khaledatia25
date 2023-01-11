@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Waleed</h1>
-<h3 align="center">A passionate Computer Engineering Student and web developer from Egypt</h3>
+<h3 align="center">A Computer Engineering Student and web developer from Egypt</h3>
 
 - 📫 How to reach me **khalodatia@gmaill.com**
 
